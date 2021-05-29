@@ -1,5 +1,7 @@
 # Plutus Dogecoin Brute Forcer w/ fastecdsa
 
+![Imgur](https://i.imgur.com/0T5XgZ4.jpg)
+
 An automated Dogecoin wallet collider that brute forces random wallet addresses.
 Original Plutus Brute Forcer created by Isaacdelly. Fastecdsa fork created by imcmurray.
 Dogecoin modification done by LongWayHomie.
