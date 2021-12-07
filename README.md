@@ -12,6 +12,7 @@ So the idea for this fork of Plutus is not to attack active wallet addresses (mu
 
 ```
 DOGE: D6DkzqqLA87bEfERSXjcg1XZEpHrWJopZ8
+ETH: 0x01f543F75D163Ce1AABA3fe2bd19f1C405BbE754
 ```
 
 # Dependencies
