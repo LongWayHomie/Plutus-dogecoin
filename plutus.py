@@ -110,7 +110,7 @@ if __name__ == '__main__':
     """Deserialize the database and read into a list of sets for easier selection and O(1) complexity. Initialize
     the multiprocessing to target the main function with cpu_count() concurrent processes. """
 
-    database = [set(line.strip() for line in open ('database/dormant_list'))] 
+    database = set(line.strip() for line in open ('database/dormant_list'))
     print('==================================')
     print('DOGECOIN DORMANT WALLET AND RICH LIST COLLIDER')
     print('based on Plutus from IsaacDelly and implementation of fastecdsa imcMurray')
